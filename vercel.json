@@ -1,8 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "github": {
-  "enabled": true,
-"autoAlias": false,
-"silent": true
+    "enabled": true,
+    "silent": true
   }
 }
