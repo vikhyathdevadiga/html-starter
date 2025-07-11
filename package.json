@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "dependencies": {
-    "@vercel/edge": "^0.1.2"
-  }
+  "name": "math-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Simple math utility functions",
+  "author": "Your Name",
+  "license": "MIT"
 }
