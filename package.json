@@ -4,5 +4,8 @@
   "main": "index.js",
   "description": "Simple math utility functions",
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "22.x"
+  }
 }
